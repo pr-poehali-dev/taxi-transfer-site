@@ -14,7 +14,7 @@ const Index = () => {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Icon name="Car" size={32} />
-            <h1 className="text-2xl font-bold">TransferTaxi</h1>
+            <h1 className="text-2xl font-bold">Междугородние Такси</h1>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#home" className="hover:text-accent transition-colors">Главная</a>
@@ -345,10 +345,10 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <Icon name="Car" size={24} />
-              <span className="text-lg font-semibold">TransferTaxi</span>
+              <span className="text-lg font-semibold">Междугородние Такси</span>
             </div>
             <div className="text-sm text-primary-foreground/80">
-              © 2024 TransferTaxi. Все права защищены.
+              © 2024 Междугородние Такси. Все права защищены.
             </div>
           </div>
         </div>
