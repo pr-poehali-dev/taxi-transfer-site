@@ -24,7 +24,7 @@ const Index = () => {
           </nav>
           <Button variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
             <Icon name="Phone" size={16} className="mr-2" />
-            +7 (999) 123-45-67
++7 (995) 021-56-51
           </Button>
         </div>
       </header>
@@ -122,7 +122,7 @@ const Index = () => {
                   </div>
                   <div>
                     <Label htmlFor="phone">Телефон</Label>
-                    <Input id="phone" placeholder="+7 (999) 123-45-67" />
+                    <Input id="phone" placeholder="+7 (995) 021-56-51" />
                   </div>
                   <div>
                     <Label htmlFor="notes">Дополнительные пожелания</Label>
@@ -270,7 +270,7 @@ const Index = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <Icon name="Phone" size={20} className="text-accent" />
-                  <span>+7 (999) 123-45-67</span>
+                  <span>+7 (995) 021-56-51</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Icon name="Mail" size={20} className="text-accent" />
@@ -322,7 +322,7 @@ const Index = () => {
                   </div>
                   <div>
                     <Label htmlFor="quick-phone">Телефон</Label>
-                    <Input id="quick-phone" placeholder="+7 (999) 123-45-67" />
+                    <Input id="quick-phone" placeholder="+7 (995) 021-56-51" />
                   </div>
                   <div>
                     <Label htmlFor="quick-route">Маршрут</Label>
