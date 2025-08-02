@@ -274,7 +274,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <Icon name="Mail" size={20} className="text-accent" />
-                  <span>info@transfertaxi.ru</span>
+                  <span>halk4105@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Icon name="MapPin" size={20} className="text-accent" />
